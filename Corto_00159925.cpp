@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Corto 2
 int main () {
 cout << "Bienvenido a nuestra tienda" << endl;
 int edad;
